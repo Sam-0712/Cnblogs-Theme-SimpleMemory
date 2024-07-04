@@ -1451,6 +1451,22 @@ window.cnblogsConfig = {
 }
 ```
 
+## memorialDays - 国家公祭日和自定义缅怀的日期 <Badge type="tip" text="v2.1.5" /> [(#439)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/439)
+
+* 类型：`Array`
+* 默认值：`[]`
+
+国家公祭日和自定义缅怀的日期，日期配置为带有前导零的月日，格式 MM-DD
+
+```javascript
+window.cnblogsConfig = {
+    memorialDays: [
+        '07-04',
+        '12-13'
+    ],
+}
+```
+
 ## consoleList - 控制台输出
 
 * 类型：`Array`

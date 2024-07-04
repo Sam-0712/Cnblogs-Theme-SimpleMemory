@@ -4,7 +4,9 @@
 * 文章页复制内容携带版权信息 [(#429)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/429)
 * 文章页评论框打字动效 [(#431)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/431)
 * 友链页增加配置 [(#435)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/435)
+* 国家公祭日和自定义缅怀的日期 [(#439)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/439)
 * 修复拓展图标展示异常 [(#436)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/436)
+* 修复文章页关注博主按钮错位 [(#440)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/440)
 
 ## 2024.01.02 - v2.1.4
 * 修改了博客运行时间的文字描述
