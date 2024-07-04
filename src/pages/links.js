@@ -43,7 +43,7 @@ export default function main(_) {
             // 生成完整的友链分类的html
             const generateSectionHtml = (data) => {
                 const { title, icon, style, links } = data;
-                const sectionTitle = title ? `<h1 class="iconfont ${icon}" style="${style}">${title}</h1>` : '';
+                const sectionTitle = title ? `<h1 class="iconfont simple-memory-iconfont ${icon}" style="${style}">${title}</h1>` : '';
                 const linksHtml = links.map(generateLinkHtml).join('');
                 return `${sectionTitle}<div id="links-box">${linksHtml}</div>`;
             };
