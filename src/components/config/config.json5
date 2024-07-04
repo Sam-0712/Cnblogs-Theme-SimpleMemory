@@ -446,13 +446,12 @@
       },
     },
   },
+  // -- 纪念日 --
+  memorialDays: [],
   // -- 控制台输出 --
   consoleList: [],
   // -- 书单信息 --
   bookList: [],
   // -- 钩子 --
   hooks: {},
-
-  // -- 纪念日 --
-  memorialDays: [],
 }

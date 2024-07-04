@@ -4,6 +4,7 @@
 * 文章页复制内容携带版权信息 [(#429)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/429)
 * 文章页评论框打字动效 [(#431)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/431)
 * 友链页增加配置 [(#435)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/435)
+* 修复拓展图标展示异常 [(#436)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/436)
 
 ## 2024.01.02 - v2.1.4
 * 修改了博客运行时间的文字描述
