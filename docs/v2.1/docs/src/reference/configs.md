@@ -1037,7 +1037,7 @@ window.cnblogsConfig = {
 ```
 
 ::: tip 提示
-img 建议使用 base64 转码后的图片，素材建议到 [花瓣网](https://huaban.com/follow) 寻找透明背景素材
+img 建议使用 base64 转码后的图片，素材建议透明背景素材
 :::
 
 ```javascript
@@ -1065,6 +1065,31 @@ window.cnblogsConfig = {
 window.cnblogsConfig = {
     animate: {
         avatar: {
+            enable: false
+        },
+    },
+}
+```
+
+### typing - 评论框打字动效 <Badge type="tip" text="v2.1.5" /> [(#431)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/431)
+
+-   类型：`Object`
+-   默认值：
+
+```json5
+{
+    enable: false, // 是否开启
+    options: {
+        colorful: true,  // 是否多彩
+        shake: false, // 是否震动
+    }
+}
+```
+
+```javascript
+window.cnblogsConfig = {
+    animate: {
+        typing: {
             enable: false
         },
     },

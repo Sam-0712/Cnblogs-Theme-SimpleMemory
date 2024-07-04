@@ -247,21 +247,6 @@
       macStyle: true,
     },
   },
-  // -- 代码高亮 --
-  code: {
-    type: '',
-    // hljs
-    options: {
-      hljs: {
-        theme: 'atom-one-dark-reasonable',
-        languages: []
-      },
-      maxHeight: '',
-      fontSize: 14,
-      line: false,
-      macStyle: true,
-    },
-  },
   // -- 文章后缀 --
   articleSuffix: {
     imgUrl: '',
