@@ -29,7 +29,7 @@ export default function main(_) {
             // 生成友链的html
             const generateLinkHtml = (link, index) => {
                 const { avatar = '', name = '', introduction = '', url = '' } = link;
-                const icons = ['icon-zhifeiji', 'icon-like_fill', 'icon-flashlight_fill'];
+                const icons = ['icon-collection_fill', 'icon-like_fill', 'icon-flashlight_fill'];
                 const icon = icons[index % icons.length];
                 return _.__tools.batchTempReplacement(linksTemp, [
                     ['avatar', avatar],
