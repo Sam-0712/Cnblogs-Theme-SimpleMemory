@@ -452,4 +452,7 @@
   bookList: [],
   // -- 钩子 --
   hooks: {},
+
+  // -- 纪念日 --
+  memorialDays: [],
 }
